@@ -125,7 +125,7 @@ function draw() {
     obstaclesGroup.setVelocityXEach(0);
     cloudsGroup.setVelocityXEach(0);
     
-    //cambiar la animación del trexn
+    //cambiar la animación del trex
     trex.changeAnimation("collided",trex_collided);
     
     //establecer lifetime de los objetos del juego para que no sean destruidos nunca
